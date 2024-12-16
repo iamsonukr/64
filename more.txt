@@ -3,3 +3,41 @@ https://www.silkyyou.nl/
 
 Emoticons Solutions
 https://emoticonsolutions.com/
+
+Paula Toole
+https://paula-toole-one.vercel.app/
+
+
+-----------------------MINOR PEOJECTS-----------------------
+
+
+ISDG Front
+https://isdg-official.vercel.app/
+
+Intro
+https://theintro.vercel.app/
+
+Char JS Data Visualization
+https://shopifydatavisualization.vercel.app/
+
+Pro Text Editor
+https://pro-text-editor.vercel.app/
+
+Todo List
+https://todo-exclusive-responsive-ui.vercel.app/
+
+------ Projects under Development ------------
+
+Yarpacorn
+https://yarpacom-dash.vercel.app/
+
+
+
+--------- Need to be fixed ---------
+
+
+Invoice generator
+https://invoice-generator-ten-alpha.vercel.app/
+
+user management system
+https://usermanagement-kappa.vercel.app/
